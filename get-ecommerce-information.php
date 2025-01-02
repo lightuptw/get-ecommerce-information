@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Get Ecommerce Information
-Plugin URI: https://example.com/
-Description: A plugin to fetch user, order, and product information.
+Plugin URI: https://github.com/lightuptw/get-ecommerce-information/
+Description: A plugin to fetch user, order, product, etc. information.
 Version: 1.0
-Author: Your Name
+Author: Silvester Peng
 Author URI: https://example.com/
 License: GPL2
 */
