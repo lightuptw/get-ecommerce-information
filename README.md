@@ -1,1 +1,1 @@
-# kidpro-wp-plugin
+# get-ecommerce-data
