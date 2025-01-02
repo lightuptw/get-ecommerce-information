@@ -1,1 +1,1 @@
-# get-ecommerce-data
+# get-ecommerce-information
